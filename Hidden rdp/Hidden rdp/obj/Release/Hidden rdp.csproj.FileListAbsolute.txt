@@ -19,3 +19,4 @@ C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Data.pdb
 C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.exe.config
 C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.exe
 C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.pdb
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Resources\RDPWInst.exe
