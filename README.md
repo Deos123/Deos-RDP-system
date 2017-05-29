@@ -11,7 +11,7 @@ Components:
 As 29/05/2017 stub detection rate is 2/37 (Both false positives since it uses the RDP Wrapper library).Will stay "fud" forever since it doesnt involve any kind of malicious code (well,the code isn't malicious by itself,the way I use it is bad :D ).
 
 Dependencies: .Net Framework 3.5;
-Admin rights needed for stub two rwork
+Admin rights needed for stub to work
 
 
 
