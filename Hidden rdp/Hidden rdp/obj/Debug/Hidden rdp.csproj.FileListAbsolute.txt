@@ -1,0 +1,20 @@
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Hidden rdp.csprojResolveAssemblyReference.cache
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Hidden_rdp.Form1.resources
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Hidden_rdp.Properties.Resources.resources
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Hidden rdp.csproj.GenerateResource.Cache
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\bin\Debug\Data.exe.config
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\bin\Debug\Data.exe
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\bin\Debug\Data.pdb
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\bin\Debug\EASendMail35.dll
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Data.exe
+C:\Users\Deos\documents\visual studio 2017\Projects\Hidden rdp\Hidden rdp\obj\Debug\Data.pdb
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Debug\Data.exe.config
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Debug\Data.exe
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Debug\Data.pdb
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Debug\EASendMail35.dll
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Hidden rdp.csprojResolveAssemblyReference.cache
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Hidden_rdp.Form1.resources
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Hidden_rdp.Properties.Resources.resources
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Hidden rdp.csproj.GenerateResource.Cache
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Data.exe
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Debug\Data.pdb

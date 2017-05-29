@@ -1,0 +1,21 @@
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Release\Data.exe.config
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Release\Data.exe
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Release\Data.pdb
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Hidden_rdp.Form1.resources
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Hidden_rdp.Properties.Resources.resources
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Hidden rdp.csproj.GenerateResource.Cache
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Data.exe
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Data.pdb
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Hidden rdp.csprojResolveAssemblyReference.cache
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\bin\Release\Interop.NATUPNPLib.dll
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Interop.NATUPNPLib.dll
+C:\Users\Deos\Desktop\Hidden rdp\Hidden rdp\obj\Release\Hidden rdp.csproj.ResolveComReference.cache
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Hidden rdp.csprojResolveAssemblyReference.cache
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Hidden_rdp.Form1.resources
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Hidden_rdp.Properties.Resources.resources
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Hidden rdp.csproj.GenerateResource.Cache
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Data.exe
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\obj\Release\Data.pdb
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.exe.config
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.exe
+C:\Users\Deos\Desktop\Coding\Hidden rdp\Hidden rdp\bin\Release\Data.pdb
